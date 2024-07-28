@@ -15,7 +15,7 @@ from telegram.ext.filters import Filters
 
 
 
-API = "2137716683:AAGTENCXqgWp1Ninxxbm-uATr58Qz__qNrA"
+API = "YourApi"
 bot = telebot.TeleBot(API)
 
 updater = Updater(API,
